@@ -1,0 +1,25 @@
+
+
+.heading{
+    color:red;
+}
+label{
+    text-align: left;
+}
+h1{
+    text-align: left;
+}
+textarea{
+    height:60px;
+    width:100%;
+}
+Link{
+   padding-right:8px;
+}
+.item{
+    display:flex;
+    justify-content: center;
+    margin:12px;
+}
+
+
